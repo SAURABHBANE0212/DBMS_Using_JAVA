@@ -20,6 +20,6 @@ Management System.
 
 - Command User Interface (CUI). 
 
-<h3 align="left">File System Layout On HARD DISK :</h3>
+<h3 align="left">Output : </h3>
 
-![File-System-Layout](./File-System-Layout.png)
+![Output](./Output.png)
