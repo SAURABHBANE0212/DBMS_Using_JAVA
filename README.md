@@ -19,3 +19,7 @@ Management System.
 <h3 align="left">User Interface</h3> 
 
 - Command User Interface (CUI). 
+
+<h3 align="left">File System Layout On HARD DISK :</h3>
+
+![File-System-Layout](./File-System-Layout.png)
